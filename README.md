@@ -8,9 +8,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
