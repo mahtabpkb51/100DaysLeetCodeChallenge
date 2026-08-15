@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0392-is-subsequence](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0392-is-subsequence](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 ## Array
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
