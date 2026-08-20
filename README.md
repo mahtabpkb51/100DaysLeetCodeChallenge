@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
