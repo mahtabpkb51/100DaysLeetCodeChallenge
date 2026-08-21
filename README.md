@@ -95,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
