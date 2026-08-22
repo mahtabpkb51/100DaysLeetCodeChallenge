@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1386-cinema-seat-allocation](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Simulation
 |  |
 | ------- |
