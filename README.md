@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1927-sum-game](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
+| [1927-sum-game](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
