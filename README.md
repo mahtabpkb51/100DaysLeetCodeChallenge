@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1386-cinema-seat-allocation](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
