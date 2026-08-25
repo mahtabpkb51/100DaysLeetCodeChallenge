@@ -1,0 +1,17 @@
+class Solution {
+    public int missingMultiple(int[] nums, int k) {
+        java.util.HashSet<Integer> set = new java.util.HashSet<>();
+
+        for (int num : nums) {
+            set.add(num);
+        }
+
+        int multiple = k;
+
+        while (set.contains(multiple)) {
+            multiple += k;
+        }
+
+        return multiple;
+    }
+}
