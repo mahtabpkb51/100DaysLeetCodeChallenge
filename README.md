@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1544-make-the-string-great](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1544-make-the-string-great) |
 | [1927-sum-game](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
+## Stack
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
