@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
@@ -166,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
