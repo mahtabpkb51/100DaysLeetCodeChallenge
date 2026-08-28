@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
