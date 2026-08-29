@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1512-number-of-good-pairs](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1927-sum-game](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Simulation
 |  |
