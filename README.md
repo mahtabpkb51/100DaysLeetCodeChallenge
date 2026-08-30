@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0796-rotate-string](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1544-make-the-string-great](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1544-make-the-string-great) |
 | [1927-sum-game](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
