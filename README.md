@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0228-summary-ranges) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0812-largest-triangle-area](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0812-largest-triangle-area) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0812-largest-triangle-area) |
 | [1512-number-of-good-pairs](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1927-sum-game) |
@@ -200,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
