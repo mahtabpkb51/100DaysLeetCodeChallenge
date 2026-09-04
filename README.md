@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 | [0812-largest-triangle-area](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0812-largest-triangle-area) |
 | [1512-number-of-good-pairs](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 | [1872-stone-game-viii](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Counting
@@ -126,12 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 | [1872-stone-game-viii](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -231,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0463-island-perimeter) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mahtabpkb51/100DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
